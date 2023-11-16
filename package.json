@@ -1,5 +1,5 @@
 {
-  "name": "test-npm-semantic",
+  "name": "@aishchenko-happy/test-npm-semantic",
   "description": "",
   "main": "dist/src/index.js",
   "scripts": {
